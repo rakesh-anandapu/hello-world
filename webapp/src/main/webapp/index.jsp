@@ -16,6 +16,13 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
+    <br>
+    <label for="kaka"><b>Ekaki</b></label>
+    <input type="text" placeholder="hapy" name="mobile" id="mobile" required>
+    <br>
+    <br>
+    <br>
+    <br>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
